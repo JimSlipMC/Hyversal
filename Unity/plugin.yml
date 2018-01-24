@@ -1,0 +1,48 @@
+name: Manny
+version: 1.0
+description: UnityUtils
+author: ItsManny
+main: me.manny.unity.Unity
+commands:
+  lag:
+    aliases: [tps]
+  bc:
+    aliases: [broadcast]
+  bcraw:
+    aliases: [broadcastraw]
+  cc:
+    aliases: [clearchat]
+  clear:
+    aliases: [ci]
+  coords:
+    aliases: [idk]
+  ss:
+    aliases: [freeze]
+  gm:
+    aliases: [gamemode]
+  help:
+    aliases: ["?"]
+  list:
+    aliases: [info, who]
+  motd:
+    aliases: [messageoftheday]
+  playtime:
+    aliases: [timeplayed]
+  ping:
+    aliases: [latency]
+  rename:
+    aliases: [rename]
+  rules:
+    aliases: [rule]
+  setspawn:
+  slowchat:
+  spawn:
+  tp:
+  tphere:
+  tc:
+    aliases: [togglechat, mutechat]
+  gmc:
+  gma:
+  gms:
+  stone:
+    aliases: [cobble]
